@@ -1,1 +1,2 @@
 
+string = "Hello world"
